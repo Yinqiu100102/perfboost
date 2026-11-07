@@ -1,0 +1,6 @@
+id=perfboost
+name=Mi439 Performance Tune
+version=v1.0
+versionCode=1
+author=Yinqiu100102
+description=Aggressive IO/VM/animation tuning for Redmi 8 / 8A (olive / olivelite) on MIUI 14 ports. IO scheduler, read-ahead, swappiness, dirty ratios, vfs cache pressure and 0.5x animation scales.
